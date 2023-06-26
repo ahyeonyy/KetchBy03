@@ -1,0 +1,1310 @@
+.accountupdate-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.accountupdate-accountupdate {
+  width: 100%;
+  height: 1800px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.accountupdate-main {
+  top: 227px;
+  left: 283px;
+  width: 736px;
+  height: 1288px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-buttonupdate {
+  top: 1232px;
+  left: 165px;
+  width: 282px;
+  height: 56px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-width: 0px;
+  border-radius: 56px;
+  background-color: rgba(45, 42, 38, 1);
+}
+.accountupdate-text {
+  top: 17.3700008392334px;
+  left: 77.19000244140625px;
+  color: rgba(255, 255, 255, 1);
+  width: 128px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: center;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-content {
+  top: 280px;
+  left: 4px;
+  width: 636px;
+  height: 347px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(233, 233, 233, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.accountupdate-email {
+  top: 296px;
+  left: 24px;
+  width: 588px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-div {
+  top: 15.375px;
+  left: 0px;
+  width: 173px;
+  height: 17.25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-frame6 {
+  top: 0px;
+  left: 0px;
+  width: 588px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-text02 {
+  top: 13px;
+  color: rgba(45, 42, 38, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-text03 {
+  color: rgba(45, 42, 38, 1);
+}
+.accountupdate-input {
+  top: 0px;
+  left: 196.66000366210938px;
+  width: 391px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(233, 233, 233, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.accountupdate-divplaceholder {
+  top: 13.5px;
+  left: 17px;
+  width: 357px;
+  height: 21px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-width: 0px;
+}
+.accountupdate-text04 {
+  top: 0.5px;
+  left: 0.339996337890625px;
+  color: rgba(204, 204, 204, 1);
+  width: 66px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-phone {
+  gap: 24px;
+  top: 239px;
+  left: 23px;
+  width: 588px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.accountupdate-div01 {
+  width: 172.66000366210938px;
+  height: 17.25px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-text06 {
+  top: -2.375px;
+  color: rgba(45, 42, 38, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-text07 {
+  color: rgba(45, 42, 38, 1);
+}
+.accountupdate-input1 {
+  width: 391.3399963378906px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(233, 233, 233, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.accountupdate-divplaceholder1 {
+  top: 13.5px;
+  left: 17px;
+  width: 357px;
+  height: 21px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-width: 0px;
+}
+.accountupdate-text08 {
+  top: 0.5px;
+  left: 0.339996337890625px;
+  color: rgb(204, 204, 204);
+  width: 66px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-pwdchk {
+  gap: 24px;
+  top: 182px;
+  left: 24px;
+  width: 588px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.accountupdate-div02 {
+  width: 172.66000366210938px;
+  height: 17.25px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-text09 {
+  top: -2px;
+  color: rgba(45, 42, 38, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-text10 {
+  color: rgba(45, 42, 38, 1);
+}
+.accountupdate-input2 {
+  width: 391.3399963378906px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(233, 233, 233, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.accountupdate-divplaceholder2 {
+  top: 13.5px;
+  left: 17px;
+  width: 357px;
+  height: 21px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-width: 0px;
+  background-color: transparent;
+}
+.accountupdate-text11 {
+  top: 0px;
+  left: 5px;
+  color: rgb(204, 204, 204);
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-pwd {
+  gap: 24px;
+  top: 122px;
+  left: 24px;
+  width: 588px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.accountupdate-div03 {
+  width: 172.66000366210938px;
+  height: 17.25px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-text12 {
+  top: -2.375px;
+  color: rgba(45, 42, 38, 1);
+  width: 109px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-text13 {
+  color: rgba(45, 42, 38, 1);
+}
+.accountupdate-input3 {
+  width: 391.3399963378906px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(233, 233, 233, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.accountupdate-divplaceholder3 {
+  top: 13.5px;
+  left: 17px;
+  width: 357px;
+  height: 21px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-width: 0px;
+}
+.accountupdate-text14 {
+  top: -1px;
+  left: 4px;
+  color: rgba(204, 204, 204, 1);
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-nick {
+  gap: 24px;
+  top: 59px;
+  left: 23px;
+  width: 588px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.accountupdate-div04 {
+  width: 172.66000366210938px;
+  height: 17.25px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-text16 {
+  top: -2px;
+  color: rgba(45, 42, 38, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-text17 {
+  color: rgba(45, 42, 38, 1);
+}
+.accountupdate-divsc3o9n6l34 {
+  width: 391.3399963378906px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-input4 {
+  top: 0px;
+  left: 0px;
+  width: 263px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(233, 233, 233, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.accountupdate-divplaceholder4 {
+  top: 13.5px;
+  left: 17px;
+  width: 229px;
+  height: 21px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-width: 0px;
+}
+.accountupdate-text18 {
+  top: 0px;
+  left: 7px;
+  color: rgba(204, 204, 204, 1);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-buttondouble {
+  top: 0px;
+  left: 271.3399963378906px;
+  width: 120px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-width: 0px;
+  border-radius: 2px;
+  background-color: rgba(45, 42, 38, 1);
+}
+.accountupdate-text20 {
+  top: 15.09000015258789px;
+  left: 26.3799991607666px;
+  color: rgba(255, 255, 255, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: DemiLight;
+  text-align: center;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 13.800000190734863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-name {
+  top: 14px;
+  left: 24px;
+  width: 595px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-text22 {
+  left: 197px;
+  color: rgba(204, 204, 204, 1);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-text24 {
+  top: -2.375px;
+  color: rgba(45, 42, 38, 1);
+  width: 102px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-text25 {
+  color: rgba(45, 42, 38, 1);
+}
+.accountupdate-img {
+  top: 90px;
+  left: 225px;
+  width: 180px;
+  height: 180px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-mypicture {
+  gap: 10px;
+  top: 1px;
+  left: 4px;
+  width: 170px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: center;
+  border-radius: 75px;
+  justify-content: center;
+}
+.accountupdate-defaultuserprofilepicturehvoncb1 {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+}
+.accountupdate-btncamera {
+  gap: 0px;
+  top: 117px;
+  left: 112px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  padding: 0px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 25px;
+  justify-content: center;
+}
+.accountupdate-btncamera input[type="file"]{
+	width: 0;
+	height: 0;
+	padding: 0;
+	overflow: hidden;
+	position: absolute;
+}
+.updatepicture{
+	width: 0;
+	padding: 0;
+}
+.accountupdate-camera1 {
+  width: 50px;
+  height: 50px;
+  padding-top: 0px;
+  border-width: 0px;
+  padding-left: 0px;
+  border-radius: 25px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  background-image: url(https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/76b9c27b-18d0-4658-87c6-f1319ca14338/e544f4f0-a526-4cba-8e90-af1d29930086?org_if_sml=12268);
+}
+.accountupdate-title {
+  top: 220px;
+  left: 300px;
+  width: 636px;
+  height: 93.16000366210938px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(45, 42, 38, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.accountupdate-text26 {
+  top: -1px;
+  left: 197px;
+  color: rgba(45, 42, 38, 1);
+  width: 214px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Noto Serif KR;
+  font-weight: 500;
+  line-height: 44.15999984741211px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-accountoutbtn {
+  top: 1256px;
+  left: 631px;
+  width: 100px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(204, 204, 204, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.accountupdate-text28 {
+  color: rgba(135, 135, 135, 1);
+  width: 100px;
+  height: auto;
+  padding: 0px;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 20.700000762939453px;
+  border-width: 0px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-choosehobby {
+  top: 1050px;
+  left: 311px;
+  width: 735px;
+  height: 131px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  padding-top: 1px;
+}
+.accountupdate-div05 {
+  top: 0px;
+  left: 0px;
+  width: 173px;
+  height: 17.25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-text30 {
+  top: -2px;
+  color: rgba(45, 42, 38, 1);
+  width: 119px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-hobby {
+  top: 37px;
+  left: 4px;
+  width: 731px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-hobby2 {
+  top: 73px;
+  left: 4px;
+  width: 731px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-hobby3 {
+  top: 108px;
+  left: 4px;
+  width: 731px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-spanwishconditionchipschip {
+  top: 0px;
+  left: 0px;
+  width: 153px;
+  display: flex;
+  padding: 6px 13px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(232, 232, 232, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: rgba(248, 248, 248, 1);
+    color: rgba(45, 42, 38, 1);
+  font-size: 12px;
+  font-style: Regular;
+}
+.accountinsert-spanwishconditionchipschip2 {
+  top: 0px;
+  left: 180px;
+  width: 153px;
+  display: flex;
+  padding: 6px 13px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(232, 232, 232, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: rgba(248, 248, 248, 1);
+    color: rgba(45, 42, 38, 1);
+  font-size: 12px;
+  font-style: Regular;
+}
+
+.accountupdate-text31 {
+  color: rgba(45, 42, 38, 1);
+}
+.accountupdate-hobby {
+  top: 30px;
+  left: 2px;
+  width: 731px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-hobby2 {
+  top: 68px;
+  left: 2px;
+  width: 731px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-hobby3 {
+  top: 105px;
+  left: 2px;
+  width: 731px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-spanwishconditionchipschip {
+  top: 0px;
+  left: 0px;
+  width: 153px;
+  display: flex;
+  padding: 6px 13px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(232, 232, 232, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: rgba(248, 248, 248, 1);
+  color: rgba(45, 42, 38, 1);
+  font-size: 12px;
+  font-style: Regular;
+}
+.accountupdate-spanwishconditionchipschip2{
+  top: 0px;
+  left: 180px;
+  width: 153px;
+  display: flex;
+  padding: 6px 13px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(232, 232, 232, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: rgba(248, 248, 248, 1);
+    color: rgba(45, 42, 38, 1);
+  font-size: 12px;
+  font-style: Regular;
+	
+}
+
+
+.accountupdate-span-chipcontent-jzrw {
+  width: 126.61000061035156px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-button {
+  right: 0px;
+  width: 14px;
+  bottom: 3px;
+  height: 14px;
+  padding: 0px;
+  position: absolute;
+  border-width: 0px;
+}
+.accountupdate-frame {
+  top: 0px;
+  left: 0.5px;
+  width: 99px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-frame1 {
+  top: 0px;
+  left: 45px;
+  width: 54px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-button1 {
+  top: 5px;
+  left: 8px;
+  width: 38px;
+  height: 13px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 56px;
+  background-color: rgba(45, 42, 38, 1);
+}
+.accountupdate-text32 {
+  top: 2px;
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  width: 54px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: DemiLight;
+  text-align: center;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-text34 {
+  top: 3.050048828125px;
+  color: rgba(45, 42, 38, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Noto Sans Kannada;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-takeselect {
+  top: 101px;
+  left: 490px;
+  width: 98px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  padding-top: 13px 40px;
+  border-width: 0px;
+  padding-left: 13px 40px;
+  border-radius: 8px;
+  padding-bottom: 13px 40px;
+  justify-content: center;
+  background-color: rgba(0, 131, 117, 1);
+}
+.accountupdate-text36 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-chooseplace {
+  top: 1200px;
+  left: 310px;
+  width: 731px;
+  height: 143px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-hobby1 {
+  top: 49px;
+  left: 0px;
+  width: 731px;
+  height: 13px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-spanwishconditionchipschip1 {
+  top: 0px;
+  left: 0px;
+  width: 153px;
+  
+  display: flex;
+  padding: 6px 13px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(232, 232, 232, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: rgba(248, 248, 248, 1);
+}
+.accountupdate-span-chipcontent-jzrw1 {
+  width: 126.61000061035156px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-button2 {
+  top: 3px;
+  right: -1px;
+  width: 14px;
+  height: 14px;
+  padding: 0px;
+  position: absolute;
+  border-width: 0px;
+}
+.accountupdate-frame2 {
+  top: 0px;
+  left: 0.5px;
+  width: 99px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-frame3 {
+  top: 0px;
+  left: 45px;
+  width: 54px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-button3 {
+  top: 5px;
+  left: 8px;
+  width: 38px;
+  height: 13px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 56px;
+  background-color: rgba(45, 42, 38, 1);
+}
+.accountupdate-text38 {
+  top: 2px;
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  width: 54px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: DemiLight;
+  text-align: center;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-text40 {
+  top: 3.050048828125px;
+  color: rgba(45, 42, 38, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Noto Sans Kannada;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-takeselect1 {
+  top: 113px;
+  left: 488px;
+  width: 98px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  padding-top: 13px 40px;
+  border-width: 0px;
+  padding-left: 13px 40px;
+  border-radius: 8px;
+  padding-bottom: 13px 40px;
+  justify-content: center;
+  background-color: rgba(0, 131, 117, 1);
+}
+.accountupdate-text42 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-div06 {
+  top: 0px;
+  left: 7px;
+  width: 173px;
+  height: 17.25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-text44 {
+  top: -2px;
+  color: rgba(45, 42, 38, 1);
+  width: 119px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-text45 {
+  color: rgba(45, 42, 38, 1);
+}
+.accountupdate-header {
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 172px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.accountupdate-link {
+  width: 1280px;
+  display: flex;
+  padding: 12.979999542236328px 816.780029296875px 14.020000457763672px 817.219970703125px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 131, 117, 1);
+}
+.accountupdate-divebf1131 {
+  width: 1280px;
+  display: flex;
+  padding: 0 360px 1px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(242, 242, 242, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.accountupdate-text46 {
+  top: 9px;
+  left: 1148px;
+  color: rgba(153, 153, 153, 1);
+  width: auto;
+  height: auto;
+  padding: 0px;
+  position: absolute;
+  font-size: 13px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: normal;
+  border-width: 0px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-text48 {
+  top: 9px;
+  left: 1207px;
+  color: rgba(153, 153, 153, 1);
+  width: auto;
+  height: auto;
+  padding: 0px;
+  z-index: 1;
+  position: absolute;
+  font-size: 13px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: normal;
+  border-width: 0px;
+  font-stretch: normal;
+  text-decoration: none;
+  background-color: transparent;
+}
+.accountupdate-divebf1132 {
+  gap: 445.80999755859375px;
+  width: 1284px;
+  height: 86px;
+  display: flex;
+  padding: 12.5px 140px 12.5px 44px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.accountupdate-image1 {
+  top: 10.623977661132812px;
+  left: 28.75px;
+  width: 186px;
+  height: 65px;
+  z-index: 1;
+  position: absolute;
+}
+.accountupdate-frame7 {
+  width: 284.8800048828125px;
+  height: 24.690000534057617px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-link1 {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  display: flex;
+  padding: 0 0 0.6900005340576172px;
+  position: absolute;
+  align-items: flex-start;
+}
+.accountupdate-text50 {
+  color: rgba(45, 42, 38, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Noto Serif KR;
+  font-weight: 700;
+  line-height: 20.700000762939453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-div07 {
+  top: 2px;
+  left: 82.9697265625px;
+  width: 6px;
+  height: 6px;
+  z-index: 1;
+  position: absolute;
+  border-radius: 3px;
+}
+.accountupdate-link2 {
+  top: 3px;
+  left: 125px;
+  width: 41px;
+  display: flex;
+  padding: 0 0 0.6900005340576172px;
+  position: absolute;
+  align-items: flex-start;
+}
+.accountupdate-text52 {
+  color: rgba(45, 42, 38, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Noto Serif KR;
+  font-weight: 700;
+  line-height: 20.700000762939453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-div08 {
+  top: 0px;
+  left: 40px;
+  width: 6px;
+  height: 6px;
+  z-index: 1;
+  position: absolute;
+  border-radius: 3px;
+}
+.accountupdate-link3 {
+  top: 0px;
+  left: 221px;
+  width: 64px;
+  height: 20.690000534057617px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountupdate-text54 {
+  top: 1px;
+  color: rgba(45, 42, 38, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Noto Serif KR;
+  font-weight: 700;
+  line-height: 20.700000762939453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountupdate-div09 {
+  top: 2px;
+  left: 69px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}

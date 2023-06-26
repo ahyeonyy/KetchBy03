@@ -1,0 +1,1154 @@
+.classopen-classopen {
+  width: 100%;
+  height: 1000px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.classopen-btnconfirm {
+  top: 1100px;
+  left: 250px;
+  width: 210px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-width: 0px;
+  background-color: rgba(0, 131, 117, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 18px;
+  font-style: Bold;
+  font-family: Droid Sans;
+  justify-content: center;
+}
+
+.classopen-div-main {
+  width: 1280px;
+  height: 2200px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-divstep1 {
+  top: 33px;
+  left: 258px;
+  width: 732px;
+  height: 842px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-divstep2 {
+  top: 873px;
+  left: 263px;
+  width: 807px;
+  height: 1000px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-price {
+  top: 971px;
+  left: 1px;
+  width: 797px;
+  height: 55px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(235, 235, 235, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.classopen-text002 {
+  top: 8px;
+  color: rgba(32, 32, 32, 1);
+  width: 75px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Droid Sans;
+  font-weight: 700;
+  line-height: 38px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-inputprice {
+  top: 7px;
+  left: 122px;
+  width: 126px;
+  height: 35px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  padding-left: 10px;
+  background-color: rgba(204, 204, 204, 0.2800000011920929);
+}
+.classopen-message {
+  top: 16px;
+  left: 378px;
+  width: 195px;
+  height: 17px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-text004 {
+  left: 17px;
+  color: rgba(51, 102, 204, 1);
+  width: 178px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Droid Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-spanicon {
+  top: 0px;
+  left: 0px;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+}
+.classopen-pricefree {
+  top: 15px;
+  left: 282px;
+  width: 96px;
+  height: 36px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-label {
+  top: 4px;
+  left: 35px;
+  width: autopx;
+  display: flex;
+  padding: 0 1.2300033569335938px 2px 26px;
+  position: absolute;
+  align-items: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.classopen-text006 {
+  color: rgba(34, 34, 34, 1);
+  width: auto;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Droid Sans;
+  font-weight: 400;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-member {
+  top: 916px;
+  left: 1px;
+  width: 797px;
+  height: 55px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(235, 235, 235, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.classopen-text008 {
+  top: 8px;
+  color: rgba(32, 32, 32, 1);
+  width: 75px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Droid Sans;
+  font-weight: 700;
+  line-height: 38px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-countmember {
+  top: 1px;
+  left: 124px;
+  width: 121px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(102, 102, 102, 1);
+  border-style: solid;
+  border-width: 1px;
+  padding-left: 10px;
+}
+.classopen-count {
+  top: 808px;
+  left: 0px;
+  width: 798px;
+  height: 86px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(240, 240, 240, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.classopen-text011 {
+  top: 8px;
+  color: rgba(32, 32, 32, 1);
+  width: 60px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Droid Sans;
+  font-weight: 700;
+  line-height: 38px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-countendday {
+  top: 4px;
+  left: 367px;
+  width: 45px;
+  height: 25px;
+  display: flex;
+  padding: 0px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(102, 102, 102, 1);
+  border-style: solid;
+  border-width: 1px;
+  padding-left: 10px;
+}
+.classopen-text015 {
+  top: 1px;
+  color: rgba(34, 34, 34, 1);
+  width: 45px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Droid Sans;
+  font-weight: 400;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-countendmonth {
+  top: 4px;
+  left: 313px;
+  width: 150px;
+  height: 25px;
+  display: flex;
+  padding: 0px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(102, 102, 102, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.classopen-text017 {
+  color: rgba(34, 34, 34, 1);
+  width: 45px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Droid Sans;
+  font-weight: 400;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-text018 {
+  left: 270px;
+  color: rgba(0, 0, 0, 1);
+  width: 40px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Droid Sans;
+  font-weight: 400;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-text020 {
+  top: 1px;
+  color: rgba(34, 34, 34, 1);
+  width: 45px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Droid Sans;
+  font-weight: 400;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-countstartmonth {
+  top: 4px;
+  left: 124px;
+  width: 150px;
+  height: 25px;
+  display: flex;
+  padding: 0px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(102, 102, 102, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.classopen-coop {
+  top: 48px;
+  left: 125px;
+  width: 101px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-label01 {
+  width: 66px;
+  height: 36px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.classopen-text023 {
+  top: 5px;
+  left: 50px;
+  color: rgba(34, 34, 34, 1);
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Droid Sans;
+  font-weight: 400;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-day {
+  top: 703px;
+  left: 0px;
+  width: 798px;
+  height: 89px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(235, 235, 235, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.classopen-text025 {
+  top: 8px;
+  color: rgba(32, 32, 32, 1);
+  width: 60px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Droid Sans;
+  font-weight: 700;
+  line-height: 38px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.table_day{
+	width: 400px;
+}
+.classopen-divdate {
+  top: 15px;
+  left: 127px;
+  width: 603px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-hour {
+  top: 645px;
+  left: 0px;
+  width: 798px;
+  height: 55px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(235, 235, 235, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.classopen-text043 {
+  top: 8px;
+  left: -1px;
+  color: rgba(32, 32, 32, 1);
+  width: 75px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Droid Sans;
+  font-weight: 700;
+  line-height: 38px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-starttime {
+  top: 15px;
+  left: 155px;
+  width: 150px;
+  height: 35px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.classopen-endtime {
+  top: 15px;
+  left: 315px;
+  width: 50px;
+  height: 35px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-text049 {
+	top: 11px;
+  left: 280px;
+  color: rgba(0, 0, 0, 1);
+  width: 17px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Droid Sans;
+  font-weight: 400;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.classopen-level {
+  top: 584px;
+  left: 0px;
+  width: 798px;
+  height: 53px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(235, 235, 235, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.classopen-text050 {
+  top: 8px;
+  color: rgba(32, 32, 32, 1);
+  width: 60px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Droid Sans;
+  font-weight: 700;
+  line-height: 38px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-divlevel {
+  top: 0px;
+  left: 127px;
+  width: 603px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-zero {
+  top: 0px;
+  left: 0px;
+  width: 110px;
+  height: 36px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-label10 {
+  left: 0px;
+  width: 102px;
+  bottom: 0px;
+  display: flex;
+  padding: 0 0.6399993896484375px 2px 26px;
+  position: absolute;
+  align-items: flex-end;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.classopen-text052 {
+  color: rgba(34, 34, 34, 1);
+  width: 75px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Droid Sans;
+  font-weight: 400;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-row {
+  top: 0px;
+  left: 109.63999938964844px;
+  width: 101px;
+  height: 36px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-label11 {
+  left: 0px;
+  width: 110px;
+  bottom: -10px;
+  display: flex;
+  padding: 0 1.2300033569335938px 2px 26px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.classopen-text054 {
+  color: rgba(34, 34, 34, 1);
+  width: 73px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Droid Sans;
+  font-weight: 400;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-middle {
+  top: 0px;
+  left: 231px;
+  width: 96px;
+  height: 36px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-label12 {
+  left: -1px;
+  width: 89px;
+  bottom: -10px;
+  display: flex;
+  padding: 0 1.2300033569335938px 2px 26px;
+  position: absolute;
+  align-items: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.classopen-text056 {
+  color: rgba(34, 34, 34, 1);
+  width: 62px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Droid Sans;
+  font-weight: 400;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-high {
+  top: 0px;
+  left: 339.1099853515625px;
+  width: 83px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.classopen-label13 {
+  width: 83px;
+  height: 36px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.classopen-text058 {
+  top: 8px;
+  left: 25.89013671875px;
+  color: rgba(34, 34, 34, 1);
+  width: 57px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Droid Sans;
+  font-weight: 400;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-map {
+  top: 165px;
+  left: 106px;
+  width: 560px;
+  height: 416.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-addr {
+  top: 63px;
+  left: 1px;
+  width: 796px;
+  height: 90px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(235, 235, 235, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.classopen-inputaddr {
+  top: 0px;
+  left: 127px;
+  color: rgba(153, 153, 153, 1);
+  width: 516px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  font-size: 16px;
+  text-align: left;
+  align-items: flex-start;
+  flex-shrink: 0;
+  font-family: Droid Sans;
+  font-weight: 400;
+  border-color: rgba(221, 221, 221, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.classopen-inputaddr2 {
+  top: 45px;
+  left: 127px;
+  color: rgba(153, 153, 153, 1);
+  width: 516px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  font-size: 16px;
+  text-align: left;
+  align-items: flex-start;
+  flex-shrink: 0;
+  font-family: Droid Sans;
+  font-weight: 400;
+  border-color: rgba(221, 221, 221, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.classopen-linksearch {
+  top: 0px;
+  left: 650px;
+  width: 80px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(153, 153, 153, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(255, 255, 255, 1);
+  color: rgba(34, 34, 34, 1);
+  justify-content: center;
+    align-items: center;
+}
+.classopen-addrtxt {
+  top: 6px;
+  left: 1px;
+  width: 78px;
+  height: 17px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-text062 {
+  top: -2px;
+  color: rgba(45, 42, 38, 1);
+  width: 78px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 700;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-heading2 {
+  top: 0px;
+  left: 0px;
+  width: 730px;
+  height: 43px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(51, 51, 51, 1);
+  border-style: solid;
+  border-width: 0 0 2px;
+}
+.classopen-text064 {
+  color: rgba(34, 34, 34, 1);
+  width: 132px;
+  height: auto;
+  position: absolute;
+  font-size: 23px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Droid Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-message1 {
+  top: 9px;
+  left: 115px;
+  width: 84px;
+  height: 17px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-text066 {
+  left: 17px;
+  color: rgba(51, 102, 204, 1);
+  width: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Droid Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-spanicon1 {
+  top: 0px;
+  left: 0px;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+}
+
+.classopen-content {
+  top: 226px;
+  left: 2px;
+  width: 730px;
+  height: 616px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-divregist-form {
+  top: 59px;
+  left: 0px;
+  width: 730px;
+  height: 557px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-divintroduce-tab {
+  top: 0px;
+  left: 0px;
+  width: 730px;
+  height: 46px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(187, 187, 187, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.classopen-item-link {
+  top: 0px;
+  left: 0px;
+  width: 163px;
+  height: 46px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(34, 34, 34, 1);
+  border-style: solid;
+  border-width: 1px 1px 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.classopen-text068 {
+  top: 13px;
+  left: 53.5px;
+  color: rgba(34, 34, 34, 1);
+  width: 56px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Droid Sans;
+  font-weight: 700;
+  line-height: 44px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-link {
+  top: 6px;
+  left: 600px;
+  width: 127px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(187, 187, 187, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.classopen-link .uploadpicture{
+	width: 78%;
+	
+}
+.classopen-link input[type="file"]{
+	width: 0;
+	height: 0;
+	padding: 0;
+	overflow: hidden;
+	border: 0;
+	position: absolute;
+	
+}
+.classopen-text070 {
+  left: 17px;
+  color: rgba(34, 34, 34, 1);
+  width: 95px;
+  bottom: 0px;
+  height: auto;
+  padding: 0px;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Droid Sans;
+  font-weight: 400;
+  line-height: 27px;
+  border-width: 0px;
+  font-stretch: normal;
+  text-decoration: none;
+  background-color: transparent;
+}
+.classopen-div-free-doc {
+  top: 66px;
+  left: 0px;
+  width: 730px;
+  height: 491px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-textarea {
+  width: 730px;
+  height: 470px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  padding: 10px;
+  flex-shrink: 0;
+  color: #999999;
+  resize: none;
+  border-color: rgba(248, 248, 248, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(248, 248, 248, 1);
+}
+.classopen-text072 {
+  top: 18px;
+  left: 11px;
+  color: rgba(117, 117, 117, 1);
+  width: 708px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Droid Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-heading21 {
+  top: 0px;
+  left: 0px;
+  width: 730px;
+  height: 43px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(51, 51, 51, 1);
+  border-style: solid;
+  border-width: 0 0 2px;
+}
+.classopen-text077 {
+  color: rgba(34, 34, 34, 1);
+  width: 105px;
+  height: auto;
+  position: absolute;
+  font-size: 23px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Droid Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-hobby {
+  top: 158px;
+  left: 0px;
+  width: 731px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-spanwishconditionchipschip {
+  top: 0px;
+  left: 0px;
+  width: 153px;
+  display: flex;
+  padding: 6px 13px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(232, 232, 232, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: rgba(248, 248, 248, 1);
+  color: rgba(45, 42, 38, 1);
+  font-size: 15px;
+  font-style: Regular;
+  font-family: Noto Sans Kannada;
+  font-weight: 400;
+  font-stretch: normal;
+}
+.classopen-spanwishconditionchipschip2 {
+  top: 0px;
+  left: 210px;
+  width: 153px;
+  display: flex;
+  padding: 6px 13px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(232, 232, 232, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: rgba(248, 248, 248, 1);
+  color: rgba(45, 42, 38, 1);
+  font-size: 15px;
+  font-style: Regular;
+  font-family: Noto Sans Kannada;
+  font-weight: 400;
+  font-stretch: normal;
+}
+.classopen-frame1 {
+  top: 0px;
+  left: 45px;
+  width: 54px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-category {
+  top: 105px;
+  left: 2px;
+  width: 682px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-category1 {
+  top: 0px;
+  left: 0px;
+  width: 123px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-text085 {
+  top: 4px;
+  left: -2px;
+  color: rgba(23, 23, 23, 1);
+  width: 125px;
+  height: auto;
+  position: absolute;
+  font-size: 23px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-div-regist-title {
+  top: 0px;
+  left: 1.5px;
+  width: 730px;
+  height: 83px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-heading22 {
+  top: 0px;
+  left: 0px;
+  width: 730px;
+  height: 41px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.classopen-text087 {
+  color: rgba(34, 34, 34, 1);
+  width: 111px;
+  height: auto;
+  position: absolute;
+  font-size: 23px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Droid Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.classopen-divregist-form1 {
+  top: 41px;
+  left: 0px;
+  width: 730px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(229, 229, 229, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.classopen-input {
+  top: 35px;
+  left: 0px;
+  width: 730px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(229, 229, 229, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(255, 255, 255, 1);
+}

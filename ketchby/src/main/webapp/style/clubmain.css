@@ -1,0 +1,2005 @@
+/*.clubmain-container {
+	width: 100%;
+	display: flex;
+	overflow: auto;
+	min-height: 100vh;
+	align-items: center;
+	flex-direction: column;
+}*/
+
+
+
+.clubmain-container {
+	width: 100%;
+	display: flex;
+	overflow: auto;
+	min-height: 100vh;
+	align-items: center;
+	flex-direction: column;
+}
+
+/*.clubmain-clubmain {
+	width: 100%;
+	height: 1079px;
+	display: flex;
+	overflow: hidden;
+	position: relative;
+	align-items: flex-start;
+	flex-shrink: 0;
+	background-color: rgba(255, 255, 255, 1);
+}*/
+
+.clubmain-clubmain {
+	width: 100%;
+	height: 1079px; 
+	display: flex;
+	overflow: scroll;
+	position: relative;
+	align-items: flex-start;
+	flex-shrink: 0;
+	background-color: rgba(255, 255, 255, 1);
+}
+
+.clubmain-title {
+	left: 455px;
+	width: 781px;
+	height: 112px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-form-group {
+	top: 68px;
+	left: 5px;
+	width: 633px;
+	height: 44px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-radius: 8px;
+	background-color: rgba(244, 244, 244, 1);
+}
+
+.clubmain-btnsearchclub {
+	top: 14px;
+	left: 7px;
+	width: 23px;
+	height: 17px;
+	position: absolute;
+	font-size: 5px;
+}
+
+.clubmain-input {
+	top: 10px;
+	left: 40px;
+	color: rgba(181, 181, 181, 1);
+	width: 544px;
+	height: 24px;
+	display: flex;
+	overflow: hidden;
+	position: absolute;
+	font-size: 16px;
+	text-align: left;
+	align-items: flex-start;
+	flex-shrink: 0;
+	font-family: Noto Sans KR;
+	font-weight: 400;
+	background-color:hsl(0, 0%, 90%);;
+}
+
+.clubmain-button {
+	top: 69px;
+	left: 661px;
+	width: 120px;
+	height: 44px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-width: 0px;
+	border-radius: 6px;
+	background-color: rgba(0, 199, 174, 1);
+}
+
+.clubmain-text {
+	top: 10px;
+	left: 21px;
+	color: rgba(255, 255, 255, 1);
+	width: 61px;
+	height: auto;
+	position: absolute;
+	font-size: 16px;
+	font-style: Medium;
+	text-align: center;
+	font-family: Noto Sans KR;
+	font-weight: 500;
+	line-height: 24px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-iwrite {
+	top: 13px;
+	left: 82px;
+	width: 22px;
+	height: 18px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-iconboardcreatesvg {
+	top: 0px;
+	left: 0px;
+	width: 18px;
+	height: 18px;
+	position: absolute;
+}
+
+.clubmain-category {
+	top: 16px;
+	left: 515px;
+	width: 123px;
+	display: flex;
+	padding: 1px 147px 1px 1px;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-color: rgba(255, 255, 255, 1);
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 20px;
+	background-color: rgba(255, 255, 255, 0.75);
+}
+
+.clubmain-form {
+	width: 119px;
+	height: 38px;
+	display: flex;
+	overflow: hidden;
+	position: relative;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-radius: 20px;
+	background-color: rgba(255, 255, 255, 1);
+}
+
+
+.clubmain-divplaceholder {
+	top: 10px;
+	left: 0px;
+	width: 82px;
+	height: 16px;
+	display: flex;
+	overflow: hidden;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-text002 {
+	left: 12px;
+	color: rgba(45, 42, 38, 1);
+	width: 70px;
+	height: auto;
+	position: absolute;
+	font-size: 13px;
+	font-style: Regular;
+	text-align: center;
+	font-family: Inter;
+	font-weight: 400;
+	line-height: normal;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-chevron2 {
+	top: 10px;
+	left: 85px;
+	width: 22px;
+	height: 20px;
+	position: absolute;
+}
+
+.clubmain-place {
+	top: 15px;
+	left: 5px;
+	width: auto;
+	display: flex;
+	padding: 8px 35.769996643066406px 9px 16px;
+	position: absolute;
+	align-items: flex-start;
+	border-color: rgba(225, 225, 225, 1);
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 19px;
+}
+
+.clubmain-text004 {
+	color: rgba(45, 45, 45, 1);
+	height: auto;
+	font-size: 14px;
+	font-style: DemiLight;
+	text-align: center;
+	font-family: Noto Sans KR;
+	font-weight: 400;
+	line-height: 21px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-pseudo {
+	width: 14px;
+	height: 14px;
+	display: flex;
+	z-index: 1;
+	position: relative;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-image {
+	right: -6px;
+	width: 14px;
+	bottom: -3px;
+	height: 14px;
+	position: absolute;
+}
+
+.clubmain-moinlist {
+	top: 130px;
+	left: 460px;
+	width: 770px;
+	height: auto;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+/*.item-list {
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	grid-gap: 20px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	gap: 20px;
+	overflow: scroll;
+}*/
+.item-list {
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	grid-gap: 20px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	gap: 20px;
+
+}
+
+.clubmain-moin3 {
+	top: 177px;
+	left: 0px;
+	width: 348px;
+	height: 140px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-color: rgba(206, 206, 206, 1);
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 12px;
+	background-color: rgba(254, 254, 254, 1);
+}
+
+.clubmain-div-socialing-cardinfo4e-hl-b {
+	top: 17px;
+	left: 122px;
+	width: 205px;
+	height: 107px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-div-socialing-cardtag-ift6h {
+	top: 0px;
+	left: -1px;
+	width: 139px;
+	height: 34px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-radius: 16px;
+	background-color: rgba(255, 255, 255, 1);
+}
+
+.clubmain-div-socialing-cardinfodescribe--lv-v8 {
+	top: 80px;
+	left: 0px;
+	width: 212px;
+	height: 24px;
+	display: flex;
+	overflow: hidden;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-text006 {
+	color: rgba(255, 255, 255, 1);
+	width: 60px;
+	height: auto;
+	position: absolute;
+	font-size: 20px;
+	font-style: Regular;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 400;
+	line-height: 24px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-infoplace14pxsvg {
+	top: 2px;
+	left: 59.97999954223633px;
+	width: 20px;
+	height: 20px;
+	position: absolute;
+}
+
+.clubmain-text008 {
+	top: 75px;
+	left: 145px;
+	color: rgba(140, 90, 210, 1);
+	width: 99px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-text010 {
+	top: 3px;
+	left: -35px;
+	color: rgba(102, 96, 96, 1);
+	width: 145px;
+	height: auto;
+	position: absolute;
+	font-size: 10px;
+	font-style: Semi Bold;
+	text-align: center;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 18px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-text012 {
+	top: 75px;
+	left: -4px;
+	color: rgba(56, 53, 53, 1);
+	width: 79px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-text014 {
+	top: 40px;
+	left: 145px;
+	color: rgba(56, 53, 53, 1);
+	width: 79px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-image1684410438943photoj80sq3878710 {
+	top: 20px;
+	left: 10px;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	border-radius: 16px;
+}
+
+.clubmain-div-socialing-cardinfotitle-qyzd {
+	top: 34px;
+	left: 118px;
+	width: 176px;
+	display: flex;
+	padding: 0 102.6400146484375px 0 0;
+	overflow: hidden;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-text016 {
+	color: rgba(56, 53, 53, 1);
+	width: 301px;
+	height: auto;
+	font-size: 15px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-moin5 {
+	top: 356px;
+	left: 0px;
+	width: 348px;
+	height: 140px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-color: rgba(206, 206, 206, 1);
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 12px;
+	background-color: rgba(254, 254, 254, 1);
+}
+
+.clubmain-div-socialing-cardinfo4e-hl-b1 {
+	top: 17px;
+	left: 122px;
+	width: 205px;
+	height: 107px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-div-socialing-cardtag-ift6h1 {
+	top: 0px;
+	left: -1px;
+	width: 139px;
+	height: 34px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-radius: 16px;
+	background-color: rgba(255, 255, 255, 1);
+}
+
+.clubmain-div-socialing-cardinfodescribe--lv-v81 {
+	top: 80px;
+	left: 0px;
+	width: 212px;
+	height: 24px;
+	display: flex;
+	overflow: hidden;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-text018 {
+	color: rgba(255, 255, 255, 1);
+	width: 60px;
+	height: auto;
+	position: absolute;
+	font-size: 20px;
+	font-style: Regular;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 400;
+	line-height: 24px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-infoplace14pxsvg1 {
+	top: 2px;
+	left: 59.97999954223633px;
+	width: 20px;
+	height: 20px;
+	position: absolute;
+}
+
+.clubmain-text020 {
+	top: 75px;
+	left: 145px;
+	color: rgba(140, 90, 210, 1);
+	width: 99px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-text022 {
+	top: 3px;
+	left: -47px;
+	color: rgba(102, 96, 96, 1);
+	width: 145px;
+	height: auto;
+	position: absolute;
+	font-size: 10px;
+	font-style: Semi Bold;
+	text-align: center;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 18px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-text024 {
+	top: 75px;
+	left: -4px;
+	color: rgba(56, 53, 53, 1);
+	width: 79px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-text026 {
+	top: 40px;
+	left: 141px;
+	color: rgba(56, 53, 53, 1);
+	width: 79px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-image1684410438943photoj80sq38787101 {
+	top: 20px;
+	left: 10px;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	border-radius: 16px;
+}
+
+.clubmain-div-socialing-cardinfotitle-qyzd1 {
+	top: 34px;
+	left: 118px;
+	width: 176px;
+	display: flex;
+	padding: 0 102.6400146484375px 0 0;
+	overflow: hidden;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-text028 {
+	color: rgba(56, 53, 53, 1);
+	width: 301px;
+	height: auto;
+	font-size: 15px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-moin7 {
+	top: 539px;
+	left: 2px;
+	width: 348px;
+	height: 140px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-color: rgba(206, 206, 206, 1);
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 12px;
+	background-color: rgba(254, 254, 254, 1);
+}
+
+.clubmain-div-socialing-cardinfo4e-hl-b2 {
+	top: 17px;
+	left: 122px;
+	width: 205px;
+	height: 107px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-div-socialing-cardtag-ift6h2 {
+	top: 0px;
+	left: -1px;
+	width: 139px;
+	height: 34px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-radius: 16px;
+	background-color: rgba(255, 255, 255, 1);
+}
+
+.clubmain-div-socialing-cardinfodescribe--lv-v82 {
+	top: 80px;
+	left: 0px;
+	width: 212px;
+	height: 24px;
+	display: flex;
+	overflow: hidden;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-text030 {
+	color: rgba(255, 255, 255, 1);
+	width: 60px;
+	height: auto;
+	position: absolute;
+	font-size: 20px;
+	font-style: Regular;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 400;
+	line-height: 24px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-infoplace14pxsvg2 {
+	top: 2px;
+	left: 59.97999954223633px;
+	width: 20px;
+	height: 20px;
+	position: absolute;
+}
+
+.clubmain-text032 {
+	top: 75px;
+	left: 145px;
+	color: rgba(56, 53, 53, 1);
+	width: 99px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-text034 {
+	top: 3px;
+	left: -46px;
+	color: rgba(102, 96, 96, 1);
+	width: 145px;
+	height: auto;
+	position: absolute;
+	font-size: 10px;
+	font-style: Semi Bold;
+	text-align: center;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 18px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-text036 {
+	top: 75px;
+	left: -4px;
+	color: rgba(56, 53, 53, 1);
+	width: 79px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-text038 {
+	top: 43px;
+	left: 148px;
+	color: rgba(56, 53, 53, 1);
+	width: 79px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-image1684410438943photoj80sq38787102 {
+	top: 20px;
+	left: 10px;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	border-radius: 16px;
+}
+
+.clubmain-div-socialing-cardinfotitle-qyzd2 {
+	top: 34px;
+	left: 118px;
+	width: 176px;
+	display: flex;
+	padding: 0 102.6400146484375px 0 0;
+	overflow: hidden;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-text040 {
+	color: rgba(56, 53, 53, 1);
+	width: 301px;
+	height: auto;
+	font-size: 15px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-moin6 {
+	top: 356px;
+	left: 384px;
+	width: 348px;
+	height: 140px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-color: rgba(206, 206, 206, 1);
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 12px;
+	background-color: rgba(254, 254, 254, 1);
+}
+
+.clubmain-div-socialing-cardinfo4e-hl-b3 {
+	top: 17px;
+	left: 122px;
+	width: 205px;
+	height: 107px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-div-socialing-cardtag-ift6h3 {
+	top: 0px;
+	left: -1px;
+	width: 139px;
+	height: 34px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-radius: 16px;
+	background-color: rgba(255, 255, 255, 1);
+}
+
+.clubmain-div-socialing-cardinfodescribe--lv-v83 {
+	top: 80px;
+	left: 0px;
+	width: 212px;
+	height: 24px;
+	display: flex;
+	overflow: hidden;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-text042 {
+	color: rgba(255, 255, 255, 1);
+	width: 60px;
+	height: auto;
+	position: absolute;
+	font-size: 20px;
+	font-style: Regular;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 400;
+	line-height: 24px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-infoplace14pxsvg3 {
+	top: 2px;
+	left: 59.97999954223633px;
+	width: 20px;
+	height: 20px;
+	position: absolute;
+}
+
+.clubmain-text044 {
+	top: 75px;
+	left: 145px;
+	color: rgba(140, 90, 210, 1);
+	width: 99px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-text046 {
+	top: 3px;
+	left: -39px;
+	color: rgba(102, 96, 96, 1);
+	width: 145px;
+	height: auto;
+	position: absolute;
+	font-size: 10px;
+	font-style: Semi Bold;
+	text-align: center;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 18px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-text048 {
+	top: 75px;
+	left: -4px;
+	color: rgba(56, 53, 53, 1);
+	width: 79px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-text050 {
+	top: 51px;
+	left: 129px;
+	color: rgba(56, 53, 53, 1);
+	width: 91px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-image1684410438943photoj80sq38787103 {
+	top: 20px;
+	left: 10px;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	border-radius: 16px;
+}
+
+.clubmain-div-socialing-cardinfotitle-qyzd3 {
+	top: 34px;
+	left: 118px;
+	width: 176px;
+	display: flex;
+	padding: 0 102.6400146484375px 0 0;
+	overflow: hidden;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-text052 {
+	color: rgba(56, 53, 53, 1);
+	width: 301px;
+	height: auto;
+	font-size: 15px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-moin8 {
+	top: 539px;
+	left: 382px;
+	width: 348px;
+	height: 140px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-color: rgba(206, 206, 206, 1);
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 12px;
+	background-color: rgba(254, 254, 254, 1);
+}
+
+.clubmain-div-socialing-cardinfo4e-hl-b4 {
+	top: 17px;
+	left: 122px;
+	width: 205px;
+	height: 107px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-div-socialing-cardtag-ift6h4 {
+	top: 0px;
+	left: -1px;
+	width: 139px;
+	height: 34px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-radius: 16px;
+	background-color: rgba(255, 255, 255, 1);
+}
+
+.clubmain-div-socialing-cardinfodescribe--lv-v84 {
+	top: 80px;
+	left: 0px;
+	width: 212px;
+	height: 24px;
+	display: flex;
+	overflow: hidden;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-text054 {
+	color: rgba(255, 255, 255, 1);
+	width: 60px;
+	height: auto;
+	position: absolute;
+	font-size: 20px;
+	font-style: Regular;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 400;
+	line-height: 24px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-infoplace14pxsvg4 {
+	top: 2px;
+	left: 59.97999954223633px;
+	width: 20px;
+	height: 20px;
+	position: absolute;
+}
+
+.clubmain-text056 {
+	top: 75px;
+	left: 145px;
+	color: rgba(56, 53, 53, 1);
+	width: 99px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-text058 {
+	top: 3px;
+	left: -31px;
+	color: rgba(102, 96, 96, 1);
+	width: 145px;
+	height: auto;
+	position: absolute;
+	font-size: 10px;
+	font-style: Semi Bold;
+	text-align: center;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 18px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-text060 {
+	top: 75px;
+	left: -4px;
+	color: rgba(56, 53, 53, 1);
+	width: 79px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-text062 {
+	top: 43px;
+	left: 140px;
+	color: rgba(56, 53, 53, 1);
+	width: 79px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-image1684410438943photoj80sq38787104 {
+	top: 20px;
+	left: 10px;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	border-radius: 16px;
+}
+
+.clubmain-div-socialing-cardinfotitle-qyzd4 {
+	top: 34px;
+	left: 118px;
+	width: 176px;
+	display: flex;
+	padding: 0 102.6400146484375px 0 0;
+	overflow: hidden;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-text064 {
+	color: rgba(56, 53, 53, 1);
+	width: 301px;
+	height: auto;
+	font-size: 15px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-moim1 {
+	top: 0px;
+	left: 2px;
+	width: 348px;
+	height: 140px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-color: rgba(206, 206, 206, 1);
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 12px;
+	background-color: rgba(254, 254, 254, 1);
+}
+
+.clubmain-image1685433141269photoexhdd3818260 {
+	top: 20px;
+	left: 16px;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	border-radius: 16px;
+}
+
+.clubmain-div-socialing-cardinfo4e-hl-b5 {
+	top: 17px;
+	left: 122px;
+	width: 205px;
+	height: 107px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-div-socialing-cardtag-ift6h5 {
+	top: -10px;
+	left: -1px;
+	width: 139px;
+	height: 34px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-radius: 16px;
+	background-color: rgba(255, 255, 255, 1);
+}
+
+.clubmain-text066 {
+	top: 7px;
+	left: -10px;
+	color: rgba(102, 96, 96, 1);
+	width: 100px;
+	height: auto;
+	position: absolute;
+	font-size: 10px;
+	font-style: Semi Bold;
+	text-align: center;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 18px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-div-socialing-cardinfotitle-qyzd5 {
+	top: 24px;
+	width: 206px;
+	display: flex;
+	overflow: hidden;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	justify-content: center;
+}
+
+.clubmain-text068 {
+	color: rgba(56, 53, 53, 1);
+	width: auto;
+	height: auto;
+	font-size: 10px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-text070 {
+	top: 85px;
+	left: 2px;
+	color: rgba(56, 53, 53, 1);
+	width: 90px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-text072 {
+	color: rgba(140, 90, 210, 1);
+	right: -5px;
+	width: var(- -dl-size-size-xxlarge);
+	bottom: -15px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-div-socialing-cardinfodescribe--lv-v85 {
+	top: 80px;
+	left: 0px;
+	width: 212px;
+	height: 24px;
+	display: flex;
+	overflow: hidden;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-text074 {
+	top: 53px;
+	left: 138px;
+	color: rgba(45, 42, 38, 1);
+	width: var(- -dl-size-size-medium);
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-moim2 {
+	top: 0px;
+	left: 383px;
+	width: 348px;
+	height: 140px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-color: rgba(206, 206, 206, 1);
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 12px;
+	background-color: rgba(254, 254, 254, 1);
+}
+
+.clubmain-image1685433141269photoexhdd38182601 {
+	top: 20px;
+	left: 16px;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	border-radius: 16px;
+}
+
+.clubmain-div-socialing-cardinfo4e-hl-b6 {
+	top: 17px;
+	left: 122px;
+	width: 205px;
+	height: 107px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-div-socialing-cardtag-ift6h6 {
+	top: 0px;
+	left: -1px;
+	width: 139px;
+	height: 34px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-radius: 16px;
+	background-color: rgba(255, 255, 255, 1);
+}
+
+.clubmain-text076 {
+	top: 4px;
+	color: rgba(102, 96, 96, 1);
+	width: 81px;
+	height: auto;
+	position: absolute;
+	font-size: 10px;
+	font-style: Semi Bold;
+	text-align: center;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 18px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-div-socialing-cardinfotitle-qyzd6 {
+	top: 24px;
+	left: -1px;
+	width: 206px;
+	display: flex;
+	padding: 0 30.5px 0 0;
+	overflow: hidden;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-text078 {
+	color: rgba(56, 53, 53, 1);
+	width: 206px;
+	height: auto;
+	font-size: 15px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-div-socialing-cardinfodescribe--lv-v86 {
+	top: 80px;
+	left: 0px;
+	width: 212px;
+	height: 24px;
+	display: flex;
+	overflow: hidden;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-text080 {
+	color: rgba(255, 255, 255, 1);
+	width: 60px;
+	height: auto;
+	position: absolute;
+	font-size: 20px;
+	font-style: Regular;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 400;
+	line-height: 24px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-infoplace14pxsvg5 {
+	top: 2px;
+	left: 59.97999954223633px;
+	width: 20px;
+	height: 20px;
+	position: absolute;
+}
+
+.clubmain-text082 {
+	top: 85px;
+	left: 2px;
+	color: rgba(56, 53, 53, 1);
+	width: 85px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-text084 {
+	top: 80px;
+	left: 138px;
+	color: rgba(140, 90, 210, 1);
+	width: 74px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-text086 {
+	top: 53px;
+	left: 155px;
+	color: rgba(45, 42, 38, 1);
+	width: 66px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-moim4 {
+	top: 177px;
+	left: 383px;
+	width: 348px;
+	height: 140px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-color: rgba(206, 206, 206, 1);
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 12px;
+	background-color: rgba(254, 254, 254, 1);
+}
+
+.clubmain-image1685433141269photoexhdd38182602 {
+	top: 20px;
+	left: 16px;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	border-radius: 16px;
+}
+
+.clubmain-div-socialing-cardinfo4e-hl-b7 {
+	top: 17px;
+	left: 122px;
+	width: 205px;
+	height: 107px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-div-socialing-cardtag-ift6h7 {
+	top: 0px;
+	left: -1px;
+	width: 139px;
+	height: 34px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-radius: 16px;
+	background-color: rgba(255, 255, 255, 1);
+}
+
+.clubmain-text088 {
+	top: 4px;
+	left: -9px;
+	color: rgba(102, 96, 96, 1);
+	width: 67px;
+	height: auto;
+	position: absolute;
+	font-size: 10px;
+	font-style: Semi Bold;
+	text-align: center;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 18px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-div-socialing-cardinfotitle-qyzd7 {
+	top: 24px;
+	left: -1px;
+	width: 206px;
+	display: flex;
+	padding: 0 30.5px 0 0;
+	overflow: hidden;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-text090 {
+	color: rgba(56, 53, 53, 1);
+	width: 206px;
+	height: auto;
+	font-size: 15px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-div-socialing-cardinfodescribe--lv-v87 {
+	top: 80px;
+	left: 0px;
+	width: 212px;
+	height: 24px;
+	display: flex;
+	overflow: hidden;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-text092 {
+	color: rgba(255, 255, 255, 1);
+	width: 60px;
+	height: auto;
+	position: absolute;
+	font-size: 20px;
+	font-style: Regular;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 400;
+	line-height: 24px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-infoplace14pxsvg6 {
+	top: 2px;
+	left: 59.97999954223633px;
+	width: 20px;
+	height: 20px;
+	position: absolute;
+}
+
+.clubmain-div-socialing-cardinfoparticipants-rnqv {
+	top: 52px;
+	left: -1px;
+	width: 132px;
+	height: 25px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-user2 {
+	top: 0px;
+	left: 21px;
+	width: 25px;
+	height: 25px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-text094 {
+	top: 85px;
+	left: 2px;
+	color: rgba(56, 53, 53, 1);
+	width: 78px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-text096 {
+	top: 80px;
+	left: 138px;
+	color: rgba(140, 90, 210, 1);
+	width: 74px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-text098 {
+	top: 57px;
+	left: 138px;
+	color: rgba(45, 42, 38, 1);
+	width: 72px;
+	height: auto;
+	position: absolute;
+	font-size: 12px;
+	font-style: Semi Bold;
+	text-align: left;
+	font-family: Inter;
+	font-weight: 700;
+	line-height: 40px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-menulist {
+	top:100px;
+	left: 0px;
+	width: 411px;
+	height: 259px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-group {
+	top: 19px;
+	left: 0px;
+	width: 412px;
+	height: 58px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-width: 0px;
+	background-color: rgba(245, 245, 245, 1);
+}
+
+.clubmain-text100 {
+	color: rgb(45, 42, 38);
+	top: 10px;
+	width: 412px;
+	height: auto;
+	position: absolute;
+	font-size: 35px;
+	font-style: Regular;
+	text-align: center;
+	font-family: Noto Sans KR;
+	font-weight: 400;
+	line-height: 28.08px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-question {
+	top: 93px;
+	left: 0px;
+	width: 412px;
+	height: 58px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-width: 0px;
+	background-color: rgba(255, 255, 255, 0);
+}
+
+.clubmain-text101 {
+	color: rgba(45, 42, 38, 1);
+	width: 412px;
+	height: auto;
+	position: absolute;
+	font-size: 35px;
+	font-style: Regular;
+	text-align: center;
+	font-family: Noto Sans KR;
+	font-weight: 400;
+	line-height: 28.079999923706055px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-review {
+	top: 167px;
+	left: 0px;
+	width: 412px;
+	height: 58px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-width: 0px;
+	background-color: rgba(255, 255, 255, 0);
+}
+
+.clubmain-text103 {
+	color: rgba(45, 42, 38, 1);
+	width: 412px;
+	height: auto;
+	position: absolute;
+	font-size: 35px;
+	font-style: Regular;
+	text-align: center;
+	font-family: Noto Sans KR;
+	font-weight: 400;
+	line-height: 28.079999923706055px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-header {
+	top: 0px;
+	left: 0px;
+	width: 1280px;
+	height: 172px;
+	display: flex;
+	position: absolute;
+	align-items: center;
+	flex-shrink: 0;
+	flex-direction: column;
+	background-color: rgba(255, 255, 255, 1);
+}
+
+.clubmain-link {
+	width: 1280px;
+	display: flex;
+	padding: 12.979999542236328px 816.780029296875px 14.020000457763672px
+		817.219970703125px;
+	align-items: flex-start;
+	flex-shrink: 0;
+	background-color: rgba(0, 131, 117, 1);
+}
+
+.clubmain-divebf1131 {
+	width: 1280px;
+	display: flex;
+	padding: 0 360px 1px;
+	position: relative;
+	align-items: flex-start;
+	flex-shrink: 0;
+	border-color: rgba(242, 242, 242, 1);
+	border-style: solid;
+	border-width: 0 0 1px;
+}
+
+.clubmain-text105 {
+	top: 9px;
+	left: 1148px;
+	color: rgba(153, 153, 153, 1);
+	width: auto;
+	height: auto;
+	position: absolute;
+	font-size: 13px;
+	font-style: DemiLight;
+	text-align: left;
+	font-family: Noto Sans KR;
+	font-weight: 400;
+	line-height: normal;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-text107 {
+	top: 9px;
+	left: 1207px;
+	color: rgba(153, 153, 153, 1);
+	width: auto;
+	height: auto;
+	z-index: 1;
+	position: absolute;
+	font-size: 13px;
+	font-style: DemiLight;
+	text-align: left;
+	font-family: Noto Sans KR;
+	font-weight: 400;
+	line-height: normal;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-divebf1132 {
+	gap: 445.80999755859375px;
+	width: 1284px;
+	height: 86px;
+	display: flex;
+	padding: 12.5px 140px 12.5px 44px;
+	position: relative;
+	align-items: center;
+	flex-shrink: 0;
+	justify-content: space-between;
+}
+
+.clubmain-frame7 {
+	top: 31px;
+	left: 0px;
+	right: 0px;
+	width: 284.8800048828125px;
+	height: 24.690000534057617px;
+	margin: auto;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-link1 {
+	top: 0px;
+	left: 0px;
+	width: 82px;
+	display: flex;
+	padding: 0 0 0.6900005340576172px;
+	position: absolute;
+	align-items: flex-start;
+}
+
+.clubmain-text109 {
+	color: rgba(45, 42, 38, 1);
+	height: auto;
+	font-size: 18px;
+	font-style: Bold;
+	text-align: left;
+	font-family: Noto Serif KR;
+	font-weight: 700;
+	line-height: 20.700000762939453px;
+	border-width: 0px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-div {
+	top: 2px;
+	left: 82.9697265625px;
+	width: 6px;
+	height: 6px;
+	z-index: 1;
+	position: absolute;
+	border-radius: 3px;
+}
+
+.clubmain-link2 {
+	top: 3px;
+	left: 125px;
+	width: 41px;
+	display: flex;
+	padding: 0 0 0.6900005340576172px;
+	position: absolute;
+	align-items: flex-start;
+}
+
+.clubmain-text111 {
+	color: rgba(45, 42, 38, 1);
+	height: auto;
+	font-size: 18px;
+	font-style: Bold;
+	text-align: left;
+	font-family: Noto Serif KR;
+	font-weight: 700;
+	line-height: 20.700000762939453px;
+	border-width: 0px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-div1 {
+	top: 0px;
+	left: 40px;
+	width: 6px;
+	height: 6px;
+	z-index: 1;
+	position: absolute;
+	border-radius: 3px;
+}
+
+.clubmain-link3 {
+	top: 0px;
+	left: 221px;
+	width: 64px;
+	height: 20.690000534057617px;
+	display: flex;
+	position: absolute;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.clubmain-text113 {
+	top: 1px;
+	color: rgba(45, 42, 38, 1);
+	height: auto;
+	position: absolute;
+	font-size: 18px;
+	font-style: Bold;
+	text-align: left;
+	font-family: Noto Serif KR;
+	font-weight: 700;
+	line-height: 20.700000762939453px;
+	border-width: 0px;
+	font-stretch: normal;
+	text-decoration: none;
+}
+
+.clubmain-div2 {
+	top: 2px;
+	left: 69px;
+	width: 6px;
+	height: 6px;
+	position: absolute;
+}
+
+.clubmain-image1 {
+	left: 41px;
+	width: 186px;
+	bottom: 7px;
+	height: 65px;
+	z-index: 1;
+	position: absolute;
+	border-width: 0px;
+}

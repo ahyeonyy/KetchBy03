@@ -1,0 +1,1514 @@
+.accountinsert-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.accountinsert-accountinsert {
+  width: 100%;
+  height: 1900px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.accountinsert-button {
+  top: 1218px;
+  left: 527px;
+  width: 282px;
+  height: 56px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-width: 0px;
+  border-radius: 56px;
+  background-color: rgba(45, 42, 38, 1);
+}
+.accountinsert-text {
+  top: 17.3700008392334px;
+  left: 77.19000244140625px;
+  color: rgba(255, 255, 255, 1);
+  width: 128px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: center;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-agree {
+  top: 950px;
+  left: 310px;
+  width: 656px;
+  height: 192px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(233, 233, 233, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.accountinsert-div {
+  top: 40px;
+  left: 1px;
+  width: 656px;
+  height: 152px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-div01 {
+  top: 16px;
+  left: 16px;
+  width: 624px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-divj9j19k0 {
+  top: 0px;
+  left: 0px;
+  width: 139px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-checkboxb07783acsvg {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.accountinsert-text02 {
+  top: 0.9800000190734863px;
+  left: 32px;
+  color: rgb(45, 42, 38);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 20.02px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-text03 {
+  top: 3.0899999141693115px;
+  left: 560.7999877929688px;
+  color: rgba(45, 42, 38, 1);
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 13.800000190734863px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.accountinsert-div02 {
+  top: 48px;
+  left: 16px;
+  width: 624px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-divj9j19k01 {
+  top: 0px;
+  left: 0px;
+  width: 216px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  margin-right: 30px;
+}
+.accountinsert-text05 {
+  top: 0.97998046875px;
+  left: 32px;
+  color: rgba(45, 42, 38, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 20.020000457763672px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-checkboxb07783acsvg1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.accountinsert-text07 {
+  top: 3.0899999141693115px;
+  left: 560.7999877929688px;
+  color: rgba(45, 42, 38, 1);
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 13.800000190734863px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.accountinsert-div03 {
+  top: 80px;
+  left: 16px;
+  width: 624px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-divj9j19k02 {
+  top: 0px;
+  left: 0px;
+  width: 202px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-checkboxb07783acsvg2 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.accountinsert-text09 {
+  top: 0.9800000190734863px;
+  left: 32px;
+  color: rgba(45, 42, 38, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 20.020000457763672px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-text11 {
+  top: 3.0899999141693115px;
+  left: 560.7999877929688px;
+  color: rgba(45, 42, 38, 1);
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 13.800000190734863px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.accountinsert-div04 {
+  top: 112px;
+  left: 16px;
+  width: 624px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-divj9j19k03 {
+  top: 0px;
+  left: 0px;
+  width: 265px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-checkboxb07783acsvg3 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.accountinsert-text13 {
+  top: 0.9800000190734863px;
+  left: 32px;
+  color: rgba(45, 42, 38, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 20.020000457763672px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-text15 {
+  top: 3.0899999141693115px;
+  left: 560.7999877929688px;
+  color: rgba(45, 42, 38, 1);
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 13.800000190734863px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.accountinsert-frame {
+  top: -24px;
+  left: 15px;
+  width: 93px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-checkboxb07783acsvg4 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.accountinsert-text17 {
+  top: 1.97998046875px;
+  left: 32px;
+  color: rgb(45, 42, 38);
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 700;
+  line-height: 20.02px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-register {
+
+  left: 310px;
+  width: 640px;
+  height: 570px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-content {
+  top: 93px;
+  left: 0px;
+  width: 640px;
+  height: 477px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(233, 233, 233, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.accountinsert-nick {
+  gap: 24px;
+  top: 289px;
+  left: 22px;
+  width: 1000px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.accountinsert-div05 {
+  width: 172.66000366210938px;
+  height: 17.25px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-text18 {
+  top: -2px;
+  color: #2d2a26;
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-input {
+  width: 263.3399963378906px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(233, 233, 233, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.accountinsert-divplaceholder {
+  top: 13.5px;
+  left: 17px;
+  width: 229px;
+  height: 21px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-width: 0px;
+}
+.accountinsert-text19 {
+  top: 0px;
+  left: 5px;
+  color: rgba(204, 204, 204, 1);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-button1 {
+  width: 120px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-width: 0px;
+  border-radius: 2px;
+  background-color: rgba(45, 42, 38, 1);
+}
+.accountinsert-text21 {
+  top: 15.09000015258789px;
+  left: 26.3799991607666px;
+  color: rgba(255, 255, 255, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: DemiLight;
+  text-align: center;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 13.800000190734863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-pwd {
+  gap: 24px;
+  top: 88px;
+  left: 24px;
+  width: 588px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.accountinsert-div06 {
+  width: 172.66000366210938px;
+  height: 17.25px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-text23 {
+  top: -2px;
+  color: #2d2a26;
+  width: 64px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-input1 {
+  width: 391.3399963378906px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(233, 233, 233, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.accountinsert-divplaceholder1 {
+  top: 13.5px;
+  left: 17px;
+  width: 357px;
+  height: 21px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-width: 0px;
+  background-color: transparent;
+}
+.accountinsert-text24 {
+  top: -2px;
+  left: -1px;
+  color: rgb(204, 204, 204);
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-phone {
+  gap: 24px;
+  top: 420px;
+  left: 24px;
+  width: 588px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+.accountinsert-div07 {
+  width: 172.66000366210938px;
+  height: 17.25px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-text25 {
+  top: -2px;
+  color: #2d2a26;
+  width: 64px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-input2 {
+  width: 391.3399963378906px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(233, 233, 233, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.accountinsert-divplaceholder2 {
+  top: 13.5px;
+  left: 17px;
+  width: 357px;
+  height: 21px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-width: 0px;
+}
+.accountinsert-text26 {
+  top: -2px;
+  left: 3px;
+  color: rgba(204, 204, 204, 1);
+  width: 159px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-email {
+  gap: 24px;
+  top: 24px;
+  left: 23px;
+  width: 588px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.accountinsert-div08 {
+  width: 172.66000366210938px;
+  height: 17.25px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-text28 {
+  top: -2px;
+  color: #2d2a26;
+  width: 64px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-input3 {
+  width: 391.3399963378906px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(233, 233, 233, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.accountinsert-divplaceholder3 {
+  top: 13.5px;
+  left: 17px;
+  width: 357px;
+  height: 21px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-width: 0px;
+}
+.accountinsert-text29 {
+  top: 0px;
+  left: 4px;
+  color: rgba(204, 204, 204, 1);
+  width: 159px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-pwdcom {
+  gap: 24px;
+  top: 152px;
+  left: 24px;
+  width: 588px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.accountinsert-div09 {
+  width: 172.66000366210938px;
+  height: 17.25px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-text31 {
+  top: -2px;
+  color: #2d2a26;
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-input4 {
+  width: 391.3399963378906px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(233, 233, 233, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.accountinsert-divplaceholder4 {
+  top: 13.5px;
+  left: 17px;
+  width: 357px;
+  height: 21px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-width: 0px;
+}
+.accountinsert-text32 {
+  left: 3px;
+  color: rgba(204, 204, 204, 1);
+  width: auto;
+  bottom: -2px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-name {
+  gap: 24px;
+  top: 222px;
+  left: 24px;
+  width: 588px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.accountinsert-div10 {
+  width: 172.66000366210938px;
+  height: 17.25px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-text34 {
+  top: -2px;
+  color: #2d2a26;
+  width: 37px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-input5 {
+  width: 391.3399963378906px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(233, 233, 233, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.accountinsert-divplaceholder5 {
+  top: 13.5px;
+  left: 17px;
+  width: 357px;
+  height: 21px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-width: 0px;
+}
+.accountinsert-text35 {
+  top: 0px;
+  left: 5px;
+  color: rgb(204, 204, 204);
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-birth {
+  gap: 24px;
+  top: 356px;
+  left: 22px;
+  width: 620px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.accountinsert-div11 {
+  width: 172.66000366210938px;
+  height: 17.25px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-text36 {
+  top: -2px;
+  color: #2d2a26;
+  width: 64px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-input6 {
+  width: 145.63999938964844px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(233, 233, 233, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.accountinsert-divplaceholder6 {
+  top: 13.5px;
+  left: 17px;
+  width: 112px;
+  height: 21px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-width: 0px;
+}
+.accountinsert-text37 {
+  top: 0px;
+  left: 6px;
+  color: rgba(204, 204, 204, 1);
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-divsc135gv0o1 {
+  width: 114.41999816894531px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(233, 233, 233, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.accountinsert-text39 {
+  top: 13.369999885559082px;
+  left: 17px;
+  color: rgba(45, 42, 38, 1);
+  width: 14px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-spandropdownicn {
+  top: 16px;
+  left: 81.41999816894531px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-dropdownarrowb185d058svg {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 17px;
+  position: absolute;
+}
+.accountinsert-input7 {
+  width: 115.27999877929688px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(233, 233, 233, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.accountinsert-divplaceholder7 {
+  top: 13.5px;
+  left: 17px;
+  width: 81px;
+  height: 21px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-width: 0px;
+}
+.accountinsert-text40 {
+  top: 0px;
+  left: 4px;
+  color: rgba(204, 204, 204, 1);
+  width: 14px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-title {
+  top: 0px;
+  left: 0px;
+  width: 636px;
+  height: 93.16000366210938px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(45, 42, 38, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.accountinsert-text41 {
+  top: -1px;
+  left: 197px;
+  color: rgba(45, 42, 38, 1);
+  width: 214px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Noto Serif KR;
+  font-weight: 500;
+  line-height: 44.15999984741211px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-choosehobby {
+  top: 600px;
+  left: 310px;
+  width: 641px;
+  height: 131px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-div12 {
+  top: 0px;
+  left: 0px;
+  width: 173px;
+  height: 17.25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-text43 {
+  top: -2px;
+  color: rgba(45, 42, 38, 1);
+  width: 119px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-text44 {
+  color: rgba(45, 42, 38, 1);
+}
+.accountinsert-hobby {
+  top: 37px;
+  left: 4px;
+  width: 731px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-hobby2 {
+  top: 73px;
+  left: 4px;
+  width: 731px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-hobby3 {
+  top: 108px;
+  left: 4px;
+  width: 731px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-spanwishconditionchipschip {
+  top: 0px;
+  left: 0px;
+  width: 153px;
+  display: flex;
+  padding: 6px 13px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(232, 232, 232, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: rgba(248, 248, 248, 1);
+    color: rgba(45, 42, 38, 1);
+  font-size: 12px;
+  font-style: Regular;
+}
+.accountinsert-spanwishconditionchipschip2 {
+  top: 0px;
+  left: 180px;
+  width: 153px;
+  display: flex;
+  padding: 6px 13px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(232, 232, 232, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: rgba(248, 248, 248, 1);
+    color: rgba(45, 42, 38, 1);
+  font-size: 12px;
+  font-style: Regular;
+}
+.accountinsert-takeselect {
+  top: 101px;
+  left: 490px;
+  width: 98px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  padding-top: 13px 40px;
+  border-width: 0px;
+  padding-left: 13px 40px;
+  border-radius: 8px;
+  padding-bottom: 13px 40px;
+  justify-content: center;
+  background-color: rgba(0, 131, 117, 1);
+}
+.accountinsert-text49 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-chooseplace {
+  top: 760px;
+  left: 310px;
+  width: 641px;
+  height: 143px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-div13 {
+  top: 0px;
+  left: 7px;
+  width: 173px;
+  height: 17.25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-text51 {
+  top: -2px;
+  color: rgba(45, 42, 38, 1);
+  width: 119px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-text52 {
+  color: rgba(45, 42, 38, 1);
+}
+.accountinsert-hobby1 {
+  top: 49px;
+  left: 0px;
+  width: 731px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-spanwishconditionchipschip1 {
+  top: 0px;
+  left: 0px;
+  width: 153px;
+  display: flex;
+  padding: 6px 13px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(232, 232, 232, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: rgba(248, 248, 248, 1);
+}
+.accountinsert-span-chipcontent-jzrw1 {
+  width: 126.61000061035156px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-button4 {
+  right: 0px;
+  width: 14px;
+  bottom: 3px;
+  height: 14px;
+  position: absolute;
+}
+.accountinsert-frame3 {
+  top: 0px;
+  left: 0.5px;
+  width: 99px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-frame4 {
+  top: 0px;
+  left: 45px;
+  width: 54px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-button5 {
+  top: 5px;
+  left: 8px;
+  width: 38px;
+  height: 13px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 56px;
+  background-color: rgba(45, 42, 38, 1);
+}
+.accountinsert-text53 {
+  top: 2px;
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  width: 54px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: DemiLight;
+  text-align: center;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: 17.25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-text55 {
+  top: 3.050048828125px;
+  color: rgba(45, 42, 38, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Noto Sans Kannada;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-takeselect1 {
+  top: 113px;
+  left: 488px;
+  width: 98px;
+  height: 30px;
+  display: flex;
+  padding: 13px 40px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-width: 0px;
+  padding-left: 0px;
+  border-radius: 8px;
+  padding-right: 0px;
+  justify-content: center;
+  background-color: rgba(0, 131, 117, 1);
+}
+.accountinsert-text57 {
+  color: rgb(255, 255, 255);
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.accountinsert-header {
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 172px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.accountinsert-link {
+  width: 1280px;
+  display: flex;
+  padding: 12.979999542236328px 816.780029296875px 14.020000457763672px 817.219970703125px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 131, 117, 1);
+}
+.accountinsert-divebf1131 {
+  width: 1280px;
+  display: flex;
+  padding: 0 360px 1px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(242, 242, 242, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.accountinsert-text58 {
+  top: 9px;
+  left: 1148px;
+  color: rgba(153, 153, 153, 1);
+  width: auto;
+  height: auto;
+  padding: 0px;
+  position: absolute;
+  font-size: 13px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: normal;
+  border-width: 0px;
+  font-stretch: normal;
+  text-decoration: none;
+  background-color: transparent;
+}
+.accountinsert-text60 {
+  top: 9px;
+  left: 1207px;
+  color: rgba(153, 153, 153, 1);
+  width: auto;
+  height: auto;
+  padding: 0px;
+  z-index: 1;
+  position: absolute;
+  font-size: 13px;
+  font-style: DemiLight;
+  text-align: left;
+  font-family: Noto Sans KR;
+  font-weight: 400;
+  line-height: normal;
+  border-width: 0px;
+  font-stretch: normal;
+  text-decoration: none;
+  background-color: transparent;
+}
+.accountinsert-divebf1132 {
+  gap: 445.80999755859375px;
+  width: 1284px;
+  height: 86px;
+  display: flex;
+  padding: 12.5px 140px 12.5px 44px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.accountinsert-image1 {
+  top: 10.623977661132812px;
+  left: 28.75px;
+  width: 186px;
+  height: 65px;
+  z-index: 1;
+  position: absolute;
+}
+.accountinsert-frame7 {
+  width: 284.8800048828125px;
+  height: 24.690000534057617px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-link1 {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  display: flex;
+  padding: 0 0 0.6900005340576172px;
+  position: absolute;
+  align-items: flex-start;
+}
+.accountinsert-text62 {
+  color: rgba(45, 42, 38, 1);
+  height: auto;
+  padding: 0px;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Noto Serif KR;
+  font-weight: 700;
+  line-height: 20.700000762939453px;
+  border-width: 0px;
+  font-stretch: normal;
+  text-decoration: none;
+  background-color: transparent;
+}
+.accountinsert-div14 {
+  top: 2px;
+  left: 82.9697265625px;
+  width: 6px;
+  height: 6px;
+  z-index: 1;
+  position: absolute;
+  border-radius: 3px;
+}
+.accountinsert-link2 {
+  top: 3px;
+  left: 125px;
+  width: 41px;
+  display: flex;
+  padding: 0 0 0.6900005340576172px;
+  position: absolute;
+  align-items: flex-start;
+}
+.accountinsert-text64 {
+  color: rgba(45, 42, 38, 1);
+  height: auto;
+  padding: 0px;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Noto Serif KR;
+  font-weight: 700;
+  line-height: 20.700000762939453px;
+  border-width: 0px;
+  font-stretch: normal;
+  text-decoration: none;
+  background-color: transparent;
+}
+.accountinsert-div15 {
+  top: 0px;
+  left: 40px;
+  width: 6px;
+  height: 6px;
+  z-index: 1;
+  position: absolute;
+  border-radius: 3px;
+}
+.accountinsert-link3 {
+  top: 0px;
+  left: 221px;
+  width: 64px;
+  height: 20.690000534057617px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.accountinsert-text66 {
+  top: 1px;
+  color: rgba(45, 42, 38, 1);
+  height: auto;
+  padding: 0px;
+  position: absolute;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Noto Serif KR;
+  font-weight: 700;
+  line-height: 20.700000762939453px;
+  border-width: 0px;
+  font-stretch: normal;
+  text-decoration: none;
+  background-color: transparent;
+}
+.accountinsert-div16 {
+  top: 2px;
+  left: 69px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
